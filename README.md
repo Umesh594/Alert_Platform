@@ -1,10 +1,10 @@
 -Alerting & Notification Platform (MVP)
  -Features
--Admin
--Create Alerts with:
--Title & Message 
--Severity: Info / Warning / Critical 
--Delivery Type: In App (MVP) 
+ -Admin
+ -Create Alerts with:
+ -Title & Message 
+ -Severity: Info / Warning / Critical 
+ -Delivery Type: In App (MVP) 
 -Start & Expiry times 
 -Reminder frequency (default 2 hours, simulated every 30s for demo) 
 -Visibility: Entire Organization, Specific Teams or Specific Users  – visibility filtering not fully implemented
